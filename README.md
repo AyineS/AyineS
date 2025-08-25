@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I am Seniya👋
+## I am a Computer Science Major
+## I will be working as a SI this semester
 
 <!--
 **AyineS/AyineS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
