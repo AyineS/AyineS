@@ -1,5 +1,5 @@
 ## Hi there I am Seniya👋
-I am a Computer Science Major
+I am a Computer Science Major  
 I will be working as a SI this semester
 
 <!--
