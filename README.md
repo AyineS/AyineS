@@ -1,10 +1,9 @@
 # Hi there, I am Seniya👋  
 
 ##  About me ℹ 
-
   
-I am currently pursuing a bachelor's in Computer Science    
-I will be working on a Java GUI game which will be basically a "Aim Trainer" game to help practice your aim in First Person Shooter Games
+I am currently pursuing a bachelor's in Computer Science.    
+I will be working on a Java GUI game which will be basically a "Aim Trainer" game to help practice your aim in First Person Shooter Games.
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
