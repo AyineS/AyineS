@@ -3,8 +3,8 @@
 ##  About me ℹ 
 
   
-I am currently pursuing a bachelor's in Computer Science  
-I will be working as a SI this semester
+🖥 I am currently pursuing a bachelor's in Computer Science  
+I will be working on a Java GUI game which will be basically a "Aim Trainer" 
 
 <!--
 **AyineS/AyineS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
