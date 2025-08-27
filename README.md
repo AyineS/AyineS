@@ -1,5 +1,9 @@
-## Hi there I am Seniya👋
-I am a Computer Science Major  
+# Hi there, I am Seniya👋  
+
+##  About me ℹ 
+
+  
+I am currently pursuing a bachelor's in Computer Science  
 I will be working as a SI this semester
 
 <!--
