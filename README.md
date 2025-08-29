@@ -1,6 +1,6 @@
 # Hi there, I am Seniya🙂  
 
-📧 senanayake.5@wright.edu
+Reach out 📧: senanayake.5@wright.edu
 
 ##  About me ℹ 
   
